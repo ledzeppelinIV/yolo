@@ -1,3 +1,7 @@
 <?php
-	echo 'Change made from origin! on forked repo';
+
+$b = 'hello';
+echo $b;
+
+
 ?>
